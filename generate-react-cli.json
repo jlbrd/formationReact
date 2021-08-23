@@ -10,6 +10,15 @@
       "withTest": true,
       "withStory": false,
       "withLazy": false
+    },
+    "classComponent": {
+      "path": "src/App/components",
+      "withStyle": true,
+      "withTest" : false,
+      "customTemplates" : {
+        "component" : "grc_templates/classComponent/TemplateName.js",
+        "style" : "grc_templates/classComponent/TemplateName.module.css"
+      }
     }
   }
 }
