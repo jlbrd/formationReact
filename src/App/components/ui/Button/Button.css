@@ -1,0 +1,19 @@
+.Button {
+  padding: 7px 15px;
+  margin: 5px 10px;
+  border-radius: 7px;
+  border : none;
+  font-size: 17px;
+  font-weight: 900;
+}
+
+.Button:hover {
+  border: 1px solid white;
+}
+
+.Button.shadow {
+  box-shadow: 10px 10px 15px grey;
+}
+.Button.shadow:hover {
+  box-shadow: 8px 8px 13px grey;
+}
