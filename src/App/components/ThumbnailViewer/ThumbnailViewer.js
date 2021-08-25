@@ -2,9 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './ThumbnailViewer.module.css';
 
-const ThumbnailViewer = () => (
+const ThumbnailViewer = (props) => (
   <div className={styles.ThumbnailViewer} data-testid="ThumbnailViewer">
-    ThumbnailViewer Component
+    {props.children}
   </div>
 );
 

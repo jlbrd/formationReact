@@ -1,0 +1,234 @@
+{
+  "memes": [
+    {
+      "id": 0,
+      "text": "Premier meme",
+      "x": 100,
+      "y": 100,
+      "imageId": 0,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": true,
+      "italic": true,
+      "fontWeight": 200
+    },
+    {
+      "text": "Deuxième meme 2",
+      "x": 100,
+      "y": 100,
+      "imageId": 1,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": true,
+      "italic": true,
+      "id": 1,
+      "fontWeight": 200
+    },
+    {
+      "text": "Un test meme",
+      "x": 100,
+      "y": 100,
+      "imageId": 2,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": true,
+      "italic": true,
+      "id": 2,
+      "fontWeight": 200
+    },
+    {
+      "text": "nouveau texte",
+      "x": 200,
+      "y": 200,
+      "imageId": -1,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 3
+    },
+    {
+      "text": "nouveau texte",
+      "x": 200,
+      "y": 200,
+      "imageId": 2,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 4
+    },
+    {
+      "text": "nouveau textexxx",
+      "x": 206,
+      "y": 200,
+      "imageId": 3,
+      "color": "#ACACAC",
+      "fontsize": 27,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 5
+    },
+    {
+      "text": "nouveau texte jjjjjjjjjj",
+      "x": 200,
+      "y": 200,
+      "imageId": -1,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 6
+    },
+    {
+      "text": "nouveau texte jjjjjjjjjjii",
+      "x": 200,
+      "y": 200,
+      "imageId": -1,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 7
+    },
+    {
+      "text": "nouveau texte jjjjjjjjjjii",
+      "x": 200,
+      "y": 200,
+      "imageId": -1,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 8
+    },
+    {
+      "text": "nouveau textelll",
+      "x": 200,
+      "y": 200,
+      "imageId": -1,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 9
+    },
+    {
+      "text": "nouveau texte",
+      "x": 200,
+      "y": 200,
+      "imageId": -1,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 10
+    },
+    {
+      "text": "nouveau texte",
+      "x": 200,
+      "y": 200,
+      "imageId": -1,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 11
+    },
+    {
+      "text": "nouveau texte",
+      "x": 200,
+      "y": 200,
+      "imageId": 2,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 12
+    },
+    {
+      "text": "nouveau texte",
+      "x": 200,
+      "y": 200,
+      "imageId": 4,
+      "color": "#ACACAC",
+      "fontsize": 20,
+      "underline": false,
+      "italic": false,
+      "fontWeight": 200,
+      "id": 13
+    }
+  ],
+  "images": [
+    {
+      "id": 0,
+      "filename": "ane.jpg",
+      "titre": "Ane",
+      "w": 1240,
+      "h": 800
+    },
+    {
+      "id": 1,
+      "filename": "cerf.jpg",
+      "titre": "Cerf",
+      "w": 1024,
+      "h": 683
+    },
+    {
+      "id": 2,
+      "filename": "cochon.jpg",
+      "titre": "Cochon",
+      "w": 1656,
+      "h": 1060
+    },
+    {
+      "id": 3,
+      "filename": "lapin.jpg",
+      "titre": "Lapin",
+      "w": 1024,
+      "h": 768
+    },
+    {
+      "id": 4,
+      "filename": "panda.jpg",
+      "titre": "Panda",
+      "w": 1250,
+      "h": 625
+    },
+    {
+      "id": 5,
+      "filename": "phoque.jpg",
+      "titre": "Phoque",
+      "w": 931,
+      "h": 669
+    },
+    {
+      "id": 6,
+      "filename": "rhino.jpg",
+      "titre": "Rhino",
+      "w": 450,
+      "h": 340
+    },
+    {
+      "id": 7,
+      "filename": "tigre.jpg",
+      "titre": "Tigre",
+      "w": 640,
+      "h": 358
+    }
+  ],
+  "auteur": {
+    "name": "Jean-Luc",
+    "nick": "jlbrd"
+  }
+}

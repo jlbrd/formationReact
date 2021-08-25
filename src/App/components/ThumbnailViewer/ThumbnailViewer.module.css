@@ -1,1 +1,10 @@
-.ThumbnailViewer {}
+.ThumbnailViewer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ThumbnailViewer>* {
+    height: 35vh;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
