@@ -26,8 +26,10 @@ const MemForm = (props) => {
       if (currentMeme) {
         store.dispatch({ type: eActions.UPDATE_CURRENT, value: currentMeme })
       }
+    } else {
+      setNewMeme(initialState);
     }
-  }, [memes]);
+  }, [memes, props.match.params.id]);
 
   return (
     <>
@@ -81,7 +83,7 @@ const MemForm = (props) => {
           }}></input>
           <br />
           <label htmlFor="image">Image: </label>
-          <select onChange={(e) => {
+          <select value={newMeme.imageId} onChange={(e) => {
             store.dispatch({ type: eActions.UPDATE_CURRENT, value: { ...newMeme, imageId: Number(e.target.value) } })
             //setNewMeme({ ...newMeme, imageId: Number(e.target.value) })
           }}>

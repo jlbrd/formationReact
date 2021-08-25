@@ -13,8 +13,8 @@ const NavBar = () => (
         {/*<Nav.Link href="/thumbnail">Thumbnail</Nav.Link>
         <Nav.Link href="/editor">Features</Nav.Link>
 <Nav.Link href="/pricing">Pricing</Nav.Link>*/}
-        <LinkContainer to="/thumbnail"><Button>Thumbnail</Button></LinkContainer>
-        <LinkContainer to="/editor"><Button>Modification</Button></LinkContainer>
+        <LinkContainer to="/thumbnail"><Button>Galerie</Button></LinkContainer>
+        <LinkContainer to="/editor"><Button>Création</Button></LinkContainer>
       </Nav>
       <Form inline>
         <Form.Control type="text" placeholder="Search" className="mr-sm-2" />

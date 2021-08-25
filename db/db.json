@@ -1,19 +1,7 @@
 {
   "memes": [
     {
-      "id": 0,
-      "text": "Premier meme",
-      "x": 100,
-      "y": 100,
-      "imageId": 0,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": true,
-      "italic": true,
-      "fontWeight": 200
-    },
-    {
-      "text": "Deuxième meme 2",
+      "text": "Un meme",
       "x": 100,
       "y": 100,
       "imageId": 1,
@@ -25,148 +13,16 @@
       "fontWeight": 200
     },
     {
-      "text": "Un test meme",
-      "x": 100,
-      "y": 100,
+      "text": "Des petits cochons",
+      "x": 200,
+      "y": 174,
       "imageId": 2,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": true,
-      "italic": true,
-      "id": 2,
-      "fontWeight": 200
-    },
-    {
-      "text": "nouveau texte",
-      "x": 200,
-      "y": 200,
-      "imageId": -1,
-      "color": "#ACACAC",
-      "fontsize": 20,
+      "color": "#abacd9",
+      "fontsize": 48,
       "underline": false,
       "italic": false,
       "fontWeight": 200,
-      "id": 3
-    },
-    {
-      "text": "nouveau texte",
-      "x": 200,
-      "y": 200,
-      "imageId": 2,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 4
-    },
-    {
-      "text": "nouveau textexxx",
-      "x": 206,
-      "y": 200,
-      "imageId": 3,
-      "color": "#ACACAC",
-      "fontsize": 27,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 5
-    },
-    {
-      "text": "nouveau texte jjjjjjjjjj",
-      "x": 200,
-      "y": 200,
-      "imageId": -1,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 6
-    },
-    {
-      "text": "nouveau texte jjjjjjjjjjii",
-      "x": 200,
-      "y": 200,
-      "imageId": -1,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 7
-    },
-    {
-      "text": "nouveau texte jjjjjjjjjjii",
-      "x": 200,
-      "y": 200,
-      "imageId": -1,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 8
-    },
-    {
-      "text": "nouveau textelll",
-      "x": 200,
-      "y": 200,
-      "imageId": -1,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 9
-    },
-    {
-      "text": "nouveau texte",
-      "x": 200,
-      "y": 200,
-      "imageId": -1,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 10
-    },
-    {
-      "text": "nouveau texte",
-      "x": 200,
-      "y": 200,
-      "imageId": -1,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 11
-    },
-    {
-      "text": "nouveau texte",
-      "x": 200,
-      "y": 200,
-      "imageId": 2,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 12
-    },
-    {
-      "text": "nouveau texte",
-      "x": 200,
-      "y": 200,
-      "imageId": 4,
-      "color": "#ACACAC",
-      "fontsize": 20,
-      "underline": false,
-      "italic": false,
-      "fontWeight": 200,
-      "id": 13
+      "id": 2
     }
   ],
   "images": [
